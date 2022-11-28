@@ -70,10 +70,6 @@ img {
   opacity: 0.1;
 }
 
-#teamRoster > li{
-  background-repeat: no-repeat;
-}
-
 ol > li:first-child {
   font-weight: bold;
 }
